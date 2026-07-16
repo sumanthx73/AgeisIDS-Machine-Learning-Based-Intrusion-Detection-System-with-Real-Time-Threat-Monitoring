@@ -1,0 +1,19 @@
+# Ignore datasets
+Data/
+Test_Data/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+.env
+code .gitignore
+
+Data/
+Test_Data/
+Saved Model.zip
